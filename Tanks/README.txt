@@ -1,1 +1,0 @@
-Console game on Java 'Clone Tanks'
